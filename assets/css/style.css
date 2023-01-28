@@ -5,6 +5,9 @@ body {
     text-align: center;
 }
 
+.caption-video {
+    width: 400px;
+}
 nav {
     background-color: lightseagreen;
     width: 100%;
